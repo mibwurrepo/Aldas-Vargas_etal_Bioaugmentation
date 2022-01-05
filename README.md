@@ -18,9 +18,10 @@ Structure:
 Aldas-Vargas_etal_Bioaugmentation/      
 
 |------- Data/    # biom and metadata files
-		|------- XX.biom1 
-		|------- XX.csv #metadata
+		|------- Biom_file.biom1 
+		|------- Tree_file.tree
+		|------- Metadata.csv
 |------- RCode # Code file with analysis workflow    
-		|------- XX.R
-		|------- XX.R
+		|------- R_script.R
+		
 ```
